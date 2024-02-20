@@ -10,7 +10,7 @@ This exercise used factory functions to create vehicle objects, and an event to 
 
 ## Launch
 
-View the Weekend Repair Project here: https://ivgeek.github.io/weekend-repair-project/
+View the Weekend Repair Project here: https://ivgeek.github.io/weekend-repair/
 
 
 
